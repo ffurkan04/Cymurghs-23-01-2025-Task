@@ -22,6 +22,7 @@ public class Main {
             for(int star= 0; star<1+(line*2); star++){ 
                 System.out.print("*");
             }
+            System.out.println();
 
         }
     }
